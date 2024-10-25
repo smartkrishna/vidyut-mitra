@@ -1,6 +1,6 @@
 {
   "name": "vidyut-mitra",
-  "version": "latest",
+  "version": "1.0.0",  // Use a specific version instead of latest
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -23,15 +23,15 @@
     "chart.js": "^4.4.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "cmdk": "1.0.0",
+    "cmdk": "^1.0.0",
     "firebase": "^10.14.1",
     "lucide-react": "^0.453.0",
-    "next": "^14.2.15",
+    "next": "14.2.15",  // Pinning the Next.js version
     "next-themes": "^0.3.0",
     "papaparse": "^5.4.1",
-    "react": "^18.3.1",
+    "react": "18.3.1",  // Pinning React version
     "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.3.1",
+    "react-dom": "18.3.1",  // Pinning React DOM version
     "react-markdown": "^9.0.1",
     "recharts": "^2.13.0",
     "remark-gfm": "^4.0.0",
