@@ -18,6 +18,9 @@ jobs:
       - name: Clear npm cache
         run: npm cache clean --force
 
+      - name: Set npm registry
+        run: npm config set registry https://registry.npmjs.org/
+
       - name: Install dependencies
         run: |
           rm -rf node_modules # Clear existing modules
