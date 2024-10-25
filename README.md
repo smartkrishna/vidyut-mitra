@@ -1,40 +1,28 @@
-# PrabhaWatt
+# VidyutMitra
 
-[![Thumbnail](./assets/thumbnail.png)](https://prabhawatt.vercel.app/)
 
-PrabhaWatt is a Solar Energy Optimization Platform designed to help users maximize their solar energy usage, reduce electricity bills, and contribute to a more sustainable future.
+You can find the live version of the platform at [vidyutmitra.vercel.app](https://vidyutmitra.vercel.app/).
 
-You can find the live version of the platform at [prabhawatt.vercel.app](https://prabhawatt.vercel.app/).
 
-## Table of Contents
+# Overview
+VidyutMitra tackles the challenges of inefficient energy usage, underutilized solar resources, and the need for real-time data to optimize energy costs. Our platform is designed for the Indian market, offering an integrated solution for effective solar energy management and intelligent power consumption.
 
-- [PrabhaWatt](#prabhawatt)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Installation](#installation)
-
-## Overview
-
-PrabhaWatt addresses the challenges of inefficient energy usage, underutilized solar power, and lack of real-time data for cost optimization. Our platform provides an integrated solution for intelligent energy management, focusing on solar energy utilization in India.
-
-## Features
-
-- Real-Time Tariff Monitoring
-- Energy Consumption Analytics
-- Smart Scheduling
-- Solar Energy Management
-- Machine Learning Forecasting
-- User Notifications
-- Cost-Benefit Analysis
+# Features
+Real-Time Tariff Monitoring: Track live electricity rates to optimize energy consumption.
+Energy Consumption Analytics: Gain insights into energy usage patterns and identify areas for improvement.
+Smart Scheduling: Automatically schedule high-energy appliances based on tariff forecasts and user preferences.
+Solar Energy Management: Maximize solar energy utilization to reduce dependency on the grid.
+Machine Learning Forecasting: Predict energy demand and generation to enhance efficiency.
+User Notifications: Stay informed with alerts about tariff changes, peak usage, and recommended actions.
+Cost-Benefit Analysis: Understand the financial impact of energy consumption and solar savings.
 
 ## Installation
 
 1. Clone the repository:
 
 ```
-git clone https://github.com/ChiragAgg5k/prabhawatt
-cd prabhawatt
+git clone https://github.com/smartkrishna/vidyut-mitra
+cd vidyut-mitra
 ```
 
 2. Install the required dependencies:
