@@ -189,7 +189,7 @@ export default function Dashboard() {
   <h2 className="text-xl font-bold mb-4">Tariff Monitor</h2>
   <p>Real-time and forecasted ToU and ToD tariffs displayed here.</p>
   {/* Add real-time tariff data and forecasted rates */}
-  <TariffMonitor /> {/* Pass the DISCOM name */}
+  <TariffMonitor />
 </section>
 
           {/* Energy Usage Analytics Component */}
@@ -235,13 +235,7 @@ export default function Dashboard() {
           </section>
           <section className="p-6 bg-gray-50 rounded-lg shadow">
       <h2 className="text-2xl font-bold mb-4">Dashboard</h2>
-      <StatsCards
-        // userData={userData}
-{/*         totalSolarPower={totalSolarPower}
-        uniqueDays={uniqueDays}
-        locationName={locationName}
-        weatherData={weatherData} */}
-      />
+      <StatsCards  />
     </section>
         </div>
       </main>
