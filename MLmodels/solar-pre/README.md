@@ -1,1 +1,1 @@
-solr presiction 
+solar prediction 
