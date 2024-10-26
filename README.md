@@ -6,6 +6,18 @@ You can find the live version of the platform at [vidyutmitra.vercel.app](https:
 
 # Overview
 VidyutMitra tackles the challenges of inefficient energy usage, underutilized solar resources, and the need for real-time data to optimize energy costs. Our platform is designed for the Indian market, offering an integrated solution for effective solar energy management and intelligent power consumption.
+•Machine Learning Models
+ Our solution incorporates advanced machine learning to predict tariffs, solar generation, and appliance usage. 
+Explore each model below:
+ • Tariff Prediction Model
+ Provides real-time and forecasted tariff rates to help users make cost-effective energy usage decisions.
+ https://tariff-ghvevylojjqd2r2sogu2nx.streamlit.app/
+ • Solar Energy Prediction Model
+ Uses weather data to forecast solar generation, aiding users in optimal energy utilization.
+ https://solarpre-gajvjjgbkylfkwrdt98qsd.streamlit.app/
+ • Appliance Usage Analysis Model
+ Analyzes and predicts user appliance usage patterns, enabling data-driven recommendations for savings.
+ https://electricity-pattern-n6hwxkcjfa3wp9pepcnpdy.streamlit.app/
 
 # Features
 Real-Time Tariff Monitoring: Track live electricity rates to optimize energy consumption.
